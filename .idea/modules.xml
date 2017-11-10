@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Gozde\Desktop\Hakan Hoca Android\JsonUserLoginRegister-master\JsonUserLoginRegister-master\JsonUserLoginRegister.iml" filepath="C:\Users\Gozde\Desktop\Hakan Hoca Android\JsonUserLoginRegister-master\JsonUserLoginRegister-master\JsonUserLoginRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonUserLoginRegister-master.iml" filepath="$PROJECT_DIR$/JsonUserLoginRegister-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

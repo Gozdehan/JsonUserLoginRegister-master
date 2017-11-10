@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JsonUserLoginRegister</string>
+    <string name="userName">User Name</string>
+    <string name="userSurname">User Surname</string>
+    <string name="userPhone">Phone</string>
+    <string name="userMail">Mail</string>
+    <string name="userPass">Password</string>
+    <string name="save">save</string>
+    <string name="login">Login</string>
+</resources>
